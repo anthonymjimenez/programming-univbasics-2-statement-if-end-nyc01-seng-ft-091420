@@ -1,2 +1,2 @@
 # Write your solution here
-puts Time.Now.to_i % 10
+puts Time.now.to_i % 10
